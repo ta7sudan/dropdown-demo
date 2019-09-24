@@ -44,7 +44,7 @@ header {
   display: inline-block;
 }
 
-.fix-width {
+/* .fix-width {
   min-width: max-content;
-}
+} */
 </style>
